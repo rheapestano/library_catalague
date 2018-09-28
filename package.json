@@ -1,0 +1,26 @@
+{
+  "name": "library_catalogue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rheapestano/library_catalogue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rheapestano/library_catalogue/issues"
+  },
+  "homepage": "https://github.com/rheapestano/library_catalogue#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "multer": "^1.4.0",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
+  }
+}
